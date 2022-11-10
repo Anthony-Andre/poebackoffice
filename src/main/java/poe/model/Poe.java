@@ -17,8 +17,6 @@ public class Poe {
     private LocalDate endDate;
     private PoeType poeType;
 
-
-
     @Override
     public String toString() {
         return "POE : " +
